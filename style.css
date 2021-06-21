@@ -1,0 +1,35 @@
+h1{
+    color:aqua
+    
+}
+body{
+ background-image: url('https://free4kwallpapers.com/uploads/originals/2015/11/24/hitman-agent-47-2015-movie-wallpaper.jpg');
+ height: 1700px;
+ background-repeat: no-repeat;
+ background-position: center;
+}
+
+.a{ color: rgb(0, 0, 0);
+    
+    display: flex;
+    justify-content: space-between;
+}
+.b{ color: rgb(0, 0, 0);
+   
+    text-align: center;
+}
+.c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+.game img{
+    opacity: 0.45;
+}
+.game:hover img {
+opacity: 1;
+}
+.k{
+    font-size: 23px;
+}
